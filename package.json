@@ -1,0 +1,16 @@
+{
+  "name": "SAT-Solver",
+  "version": "1.0.0",
+  "description": "Projekt",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "webserver.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
